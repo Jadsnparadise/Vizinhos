@@ -1,4 +1,4 @@
-# Vizinhos <img align="center" alt="Jadsn-Cpp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+# Neighbors <img align="center" alt="Jadsn-Cpp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
 project from Language programming 1 college subject
 
 # What is that program?
